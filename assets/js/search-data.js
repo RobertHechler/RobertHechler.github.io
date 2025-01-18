@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-research",
+    title: "research",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -52,12 +52,7 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-received-the-2023-outstanding-teaching-assistant-award-from-u-toronto-dept-ecology-and-evolutionary-biology",
+    },{id: "news-received-the-2023-outstanding-teaching-assistant-award-from-u-toronto-dept-ecology-and-evolutionary-biology",
           title: 'Received the 2023 Outstanding Teaching Assistant Award from U Toronto, Dept. Ecology and...',
           description: "",
           section: "News",},{id: "news-received-the-2024-harry-smith-prize-for-the-best-paper-published-by-an-ecr-in-molecular-ecology-links-to-the-paper-editorial-and-announcement",

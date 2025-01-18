@@ -57,8 +57,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-received-the-2023-outstanding-teaching-assistant-award-from-u-toronto-dept-ecology-and-evolutionary-biology",
+          title: 'Received the 2023 Outstanding Teaching Assistant Award from U Toronto, Dept. Ecology and...',
           description: "",
           section: "News",},{id: "news-received-the-2024-harry-smith-prize-for-the-best-paper-published-by-an-ecr-in-molecular-ecology-links-to-the-paper-editorial-and-announcement",
           title: 'Received the 2024 Harry Smith Prize for the best paper published by an...',

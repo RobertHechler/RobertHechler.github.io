@@ -1,8 +1,9 @@
 ---
 layout: research
 title: research
-permalink: /
-subtitle: <a>PhD candidate and Vanier Scholar</a>. 
+permalink: /research/
+nav: true
+nav_order: 3
 
 ---
 

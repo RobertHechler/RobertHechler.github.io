@@ -2,24 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Quantitative and molecular ecologist</a>. 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>robert.hechler{at}mail.utoronto.ca</p>
+    <p>Department of Ecology and Evolutionary Biology</p>
+    <p>University of Toronto</p>
 
 news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+</b></p>Research interests:</b></p> Aquatic Ecology, Conservation Biology, Quantitative Ecology, Molecular Ecology.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm a PhD candidate and Vanier Scholar working with [Dr. Martin Krkosek](https://krkosek.eeb.utoronto.ca/) at U Toronto. I'm broadly interested in understanding how biodiversity responds to changing environments and enjoy using molecular and quantitative methods to do so. My current projects are investigating drivers of nonlinear population dynamics and assessing wild salmon health in relation to industrial activities (in collaboration with the [Musgamagw Dzawada’enuxw Fisheries Group](https://mdfgfisheries.ca/) and [Salmon Coast](https://salmoncoast.org/)). Prior to this, I completed an MSc with [Dr. Melania Cristescu](https://www.mcgill.ca/cristescu-lab/) at McGill University where I developed environmental RNA based transcriptomics to monitor the heat stress responses of aquatic organisms.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+

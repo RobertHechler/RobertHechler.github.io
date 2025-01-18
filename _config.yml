@@ -205,6 +205,13 @@ exclude:
   - _pages/blog.md
   - _posts/
   - _projects/
+  - _pages/profiles.md
+  - _pages/repositories.md
+  - _pages/teaching.md
+  - _pages/dropdown.md
+  
+  
+
   
 keep_files:
   - CNAME

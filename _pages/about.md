@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a>PhD candidate and Vanier Scholar</a>. 
+subtitle: <a>PhD candidate and Vanier Scholar</a> 
 
 profile:
   align: right

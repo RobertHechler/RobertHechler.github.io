@@ -5,7 +5,7 @@
       "url": "https://krkosek.eeb.utoronto.ca/",
       "area": "Ecology and Evolutionary Biology",
       "studyType": "PhD",
-      "startDate": "2022-09-01",
+      "startDate": "2022",
       "endDate": null,
       "advisor": "Dr. Martin Krkosek"
     },
@@ -15,8 +15,8 @@
       "url": "https://www.mcgill.ca/cristescu-lab/",
       "area": "Biology",
       "studyType": "MSc",
-      "startDate": "2019-09-01",
-      "endDate": "2022-06-01",
+      "startDate": "2019",
+      "endDate": "2022",
       "advisor": "Dr. Melania Cristescu"
     },
     {
@@ -25,17 +25,17 @@
       "url": "https://www.ubc.ca/",
       "area": "Biology",
       "studyType": "BSc",
-      "startDate": "2015-09-01",
-      "endDate": "2019-06-01"
+      "startDate": "2015",
+      "endDate": "2019"
     }
   ],
   "awards": [
     {
-      "title": "Frontiers Planet Prize - nomination",
+      "title": "Frontiers Planet Prize - institutional nomination",
       "date": "2025",
       "awarder": "McGill University",
       "url": "https://www.frontiersplanetprize.org/",
-      "summary": "The Frontiers Planet Prize celebrates breakthroughs in sustainability science, rewarding solutions that show measurable potential to help humanity remain within the boundaries of the Earth’s ecosystem. My paper was forwarded by McGill University to the National Nominating Body for Canada (National Research Council of Canada)"
+      "summary": "My paper was forwarded by McGill University to the National Nominating Body for Canada (National Research Council of Canada)"
     },
       {
       "title": "Harry Smith Prize",

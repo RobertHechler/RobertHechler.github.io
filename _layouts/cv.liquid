@@ -94,24 +94,7 @@ layout: default
                 {% when 'basics' %}
                   {% include resume/basics.liquid %}
                 {% when 'education' %}
-                  <h4>Education</h4>
-                  <ul>
-                    {% for edu in site.data.education %}
-                      <li>
-                        <strong>{{ edu.institution }}</strong> - {{ edu.area }} <br>
-                        {% if edu.advisor %}
-                          Advisor: <em>{{ edu.advisor }}</em> <br>
-                        {% endif %}
-                        Start Date: {{ edu.startDate }} <br>
-                        {% if edu.endDate %}
-                          End Date: {{ edu.endDate }} <br>
-                        {% else %}
-                          End Date: Present <br>
-                        {% endif %}
-                        <a href="{{ edu.url }}" target="_blank" rel="noopener noreferrer">{{ edu.institution }} Website</a>
-                      </li>
-                    {% endfor %}
-                  </ul>
+                  {% include resume/education.liquid %}
                 {% when 'work' %}
                   {% include resume/work.liquid %}
                 {% when 'volunteer' %}
@@ -133,6 +116,7 @@ layout: default
                 {% when 'references' %}
                   {% include resume/references.liquid %}
                 {% else %}
+
               {% endcase %}
             </div>
           </div>

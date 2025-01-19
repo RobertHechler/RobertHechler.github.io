@@ -16,8 +16,11 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Krkosek Lab, EEB at U Toronto
 
 **Research interests:** Quantitative Ecology, Molecular Ecology, Aquatic Ecology, Global Change Biology, Conservation Biology.
+
+I'm broadly interested in understanding the effects of environmental change on biodiversity dynamics.
 
 **Email:** robert.hechler{at}mail.utoronto.ca
 

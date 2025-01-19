@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+[Google scholar](https://scholar.google.com/citations?user=cCHc_DgAAAAJ&hl=en)
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->

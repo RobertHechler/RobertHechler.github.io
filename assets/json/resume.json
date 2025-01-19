@@ -43,5 +43,66 @@
       "awarder": "Molecular Ecology",
       "url": "https://onlinelibrary.wiley.com/page/journal/homepage/1365294x/harrysmith",
       "summary": "The Harry Smith Prize recognizes the best paper published by an early career researcher in Molecular Ecology"
+    },
+    {
+      "title": "Outstanding Teaching Assistant Award",
+      "date": "2023",
+      "awarder": "University of Toronto, Dept. Ecology and Evolutionary Biology",
+      "summary": "Awarded for excellence in teaching assistance in the Ecology and Evolutionary Biology department at University of Toronto"
+    },
+    {
+      "title": "Equity Initiative of the Year",
+      "date": "2022",
+      "awarder": "McGill Science Undergraduate Society",
+      "summary": "Recognized for contributions to promoting equity within the McGill Science community"
+    },
+    {
+      "title": "Best Presentation Award",
+      "date": "2022",
+      "awarder": "Canadian Society for Ecology and Evolution",
+      "summary": "Awarded for my presentation at the joint Ecological Society of America and Canadian Society for Ecology and Evolution (ESA-CSEE) conference"
     }
-  ]}
+    ],
+  "fellowships": [
+    {
+      "title": "NSERC Vanier Canada Graduate Scholarship",
+      "date": "2023-2026",
+      "awarder": "NSERC",
+      "location": "Canada",
+      "monetarySum": "$150,000 CAD",
+      "summary": ""
+    },
+    {
+      "title": "NSERC Canada Graduate Scholarship-Doctoral",
+      "date": "2023-2026",
+      "awarder": "NSERC",
+      "location": "Canada",
+      "monetarySum": "$105,000 CAD",
+      "summary": "Declined due to Vanier"
+    },
+    {
+      "title": "Connaught PhDs for Public Impact Fellowship",
+      "date": "2023-2024",
+      "awarder": "University of Toronto",
+      "location": "Toronto, Canada",
+      "monetarySum": "$12,500 CAD",
+      "summary": ""
+    },
+    {
+      "title": "FRQNT Quebec Doctoral Research Scholarship",
+      "date": "2022-2026",
+      "awarder": "FRQNT",
+      "location": "Quebec, Canada",
+      "monetarySum": "$84,000 CAD",
+      "summary": "Declined for PhD at U of T"
+    },
+    {
+      "title": "Ontario Graduate Scholarship & U of T Fellowships",
+      "date": "2022-2023",
+      "awarder": "University of Toronto",
+      "location": "Toronto, Canada",
+      "monetarySum": "$40,000 CAD",
+      "summary": "Combination of the Ontario Graduate Scholarship ($15K) and University of Toronto fellowships ($25K)"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-"education": [
+{"education": [
     {
       "institution": "University of Toronto",
       "location": "Toronto, Canada",
@@ -37,4 +37,4 @@
       "url": "https://onlinelibrary.wiley.com/page/journal/homepage/1365294x/harrysmith",
       "summary": "The Harry Smith Prize recognizes the best paper published by an early career researcher in Molecular Ecology"
     }
-  ],
+  ]}

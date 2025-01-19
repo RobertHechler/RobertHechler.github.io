@@ -16,7 +16,8 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Krkosek Lab, Department of Ecology and Evolutionary Biology<br>
+Krkosek Lab<br>
+Department of Ecology and Evolutionary Biology<br>
 University of Toronto<br>
 
 **Research interests:** Quantitative Ecology, Molecular Ecology, Aquatic Ecology, Global Change Biology, Population Dynamics, Conservation Biology.

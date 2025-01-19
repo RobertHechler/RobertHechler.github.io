@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a>PhD candidate and Vanier Scholar</a> 
+subtitle: <a></a> 
 
 profile:
   align: right
@@ -16,11 +16,13 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Krkosek Lab, EEB at U Toronto
+PhD candidate and Vanier Scholar
+Krkosek Lab, University of Toronto
+Department of Ecology and Evolutionary Biology
 
-**Research interests:** Quantitative Ecology, Molecular Ecology, Aquatic Ecology, Global Change Biology, Conservation Biology.
+**Research interests:** Quantitative Ecology, Molecular Ecology, Aquatic Ecology, Global Change Biology, Population Dynamics, Conservation Biology.
 
-I'm broadly interested in understanding the effects of environmental change on biodiversity dynamics.
+I'm broadly interested in understanding the effects of environmental change on biodiversity dynamics. Read about my research [here](https://roberthechler.github.io/research/)
 
 **Email:** robert.hechler{at}mail.utoronto.ca
 

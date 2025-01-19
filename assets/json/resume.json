@@ -35,14 +35,14 @@
       "date": "2025",
       "awarder": "McGill University",
       "url": "https://www.frontiersplanetprize.org/",
-      "summary": "My paper was forwarded by McGill University to the National Nominating Body for Canada (National Research Council of Canada)"
+      "summary": "My paper was nominated by McGill University to the National Nominating Body for Canada (National Research Council of Canada)"
     },
       {
       "title": "Harry Smith Prize",
       "date": "2024",
       "awarder": "Molecular Ecology",
       "url": "https://onlinelibrary.wiley.com/page/journal/homepage/1365294x/harrysmith",
-      "summary": "The Harry Smith Prize recognizes the best paper published by an early career researcher in Molecular Ecology"
+      "summary": "Best paper published by an early career researcher in Molecular Ecology"
     },
     {
       "title": "Outstanding Teaching Assistant Award",
@@ -60,14 +60,14 @@
       "title": "Best Presentation Award",
       "date": "2022",
       "awarder": "Canadian Society for Ecology and Evolution",
-      "summary": "At the joint Ecological Society of America and Canadian Society for Ecology and Evolution (ESA-CSEE) conference"
+      "summary": "Joint Ecological Society of America and Canadian Society for Ecology and Evolution (ESA-CSEE) Conference"
     }
     ],
   "fellowships": [
     {
       "title": "Vanier Canada Graduate Scholarship",
       "date": "2023-2026",
-      "awarder": "NSERC",
+      "awarder": "Natural Sciences and Engineering Research Council of Canada (NSERC)",
       "location": "Canada",
       "monetarySum": "$150,000 CAD",
       "summary": ""
@@ -75,7 +75,7 @@
     {
       "title": "Canada Graduate Scholarship-Doctoral",
       "date": "2023-2026",
-      "awarder": "NSERC",
+      "awarder": "Natural Sciences and Engineering Research Council of Canada (NSERC)",
       "location": "Canada",
       "monetarySum": "$105,000 CAD",
       "summary": "Declined due to Vanier"
@@ -91,7 +91,7 @@
     {
       "title": "Quebec Doctoral Research Scholarship",
       "date": "2022-2026",
-      "awarder": "FRQNT",
+      "awarder": "Fonds de recherche du Québec – Nature et technologies (FRQNT)",
       "location": "Quebec, Canada",
       "monetarySum": "$84,000 CAD",
       "summary": "Declined for PhD at U of T"
@@ -102,7 +102,7 @@
       "awarder": "University of Toronto",
       "location": "Toronto, Canada",
       "monetarySum": "$40,000 CAD",
-      "summary": "Combination of the Ontario Graduate Scholarship ($15K) and University of Toronto fellowships ($25K)"
+      "summary": ""
     }
   ]
 }

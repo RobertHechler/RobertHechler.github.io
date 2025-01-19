@@ -287,7 +287,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Hechler]
-  first_name: [Robert, M.]
+  first_name: [Robert M.]
 
   style: apa
   locale: en

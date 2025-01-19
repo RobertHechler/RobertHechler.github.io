@@ -16,9 +16,9 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-PhD candidate and Vanier Scholar
-Krkosek Lab, University of Toronto
-Department of Ecology and Evolutionary Biology
+PhD candidate and Vanier Scholar<br>
+Krkosek Lab, Department of Ecology and Evolutionary Biology<br>
+University of Toronto<br>
 
 **Research interests:** Quantitative Ecology, Molecular Ecology, Aquatic Ecology, Global Change Biology, Population Dynamics, Conservation Biology.
 

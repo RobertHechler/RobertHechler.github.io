@@ -23,3 +23,49 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+/* Custom styles for the Field Notes page */
+
+/* Container for the field notes layout */
+.field-notes-container {
+  max-width: $max-content-width;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Row that holds two images next to each other */
+.field-notes-row {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+/* Style for each field note image */
+.field-note {
+  width: 48%; /* Adjusts the width of the images */
+  padding: 10px;
+}
+
+/* Style for the images inside the field notes */
+.field-note img {
+  width: 100%; /* Makes the image fill the container */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Adds a subtle shadow */
+  transition: transform 0.3s ease-in-out;
+}
+
+/* Hover effect for the images */
+.field-note img:hover {
+  transform: scale(1.05); /* Adds a hover effect */
+}
+
+/* Optional: Make the images stack vertically on smaller screens */
+@media (max-width: 768px) {
+  .field-notes-row {
+    flex-direction: column;
+  }
+
+  .field-note {
+    width: 100%; /* Stack images on small screens */
+  }
+}

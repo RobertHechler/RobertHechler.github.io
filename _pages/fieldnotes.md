@@ -1,12 +1,14 @@
 ---
 layout: page
 title: field notes
-permalink: /field notes/
+permalink: /field-notes/
+nav: true
+nav_order: 5
 ---
 
 # Field Notes
 
-Welcome to my field notes! Below are some photos I took during my fieldwork.
+Photos from the field
 
 <div class="field-notes-container">
   <div class="field-notes-row">

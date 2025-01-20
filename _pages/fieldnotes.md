@@ -6,14 +6,10 @@ nav: true
 nav_order: 5
 ---
 
-# Field Notes
-
-Photos from the field
-
 <div class="field-notes-container">
   <div class="field-notes-row">
     <div class="field-note">
-      <img src="/assets/images/kingcome1.jpg" alt="Field Photo 1">
+      <img src="kingcome1.jpg" alt="Field Photo 1">
     </div>
     <div class="field-note">
       <img src="/assets/images/hada1.jpg" alt="Field Photo 2">

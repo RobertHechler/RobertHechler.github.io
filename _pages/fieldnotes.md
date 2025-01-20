@@ -28,3 +28,14 @@ Welcome to my field notes! Below are some photos I took during my fieldwork.
     </div>
   </div>
 </div>
+
+  <!-- Add more rows of images here if needed -->
+  <div class="field-notes-row">
+    <div class="field-note">
+      <img src="/assets/images/salmonfire.jpg" alt="Field Photo 5">
+    </div>
+    <div class="field-note">
+      <img src="/assets/images/john.jpg" alt="Field Photo 6">
+    </div>
+  </div>
+</div>

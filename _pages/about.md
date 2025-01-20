@@ -20,9 +20,9 @@ Krkosek Lab<br>
 Department of Ecology and Evolutionary Biology<br>
 University of Toronto<br>
 
-**Research interests:** Quantitative Ecology, Molecular Ecology, Aquatic Ecology, Global Change Biology, Population Dynamics, Conservation Biology.
+**Research interests:** Quantitative Ecology, Molecular Ecology, Aquatic Ecology, Global Change Biology, Population Dynamics, Conservation Biology
 
-I'm broadly interested in understanding the effects of environmental change on biodiversity dynamics. Read about my research [here](https://roberthechler.github.io/research/)
+I'm broadly interested in understanding the effects of environmental change on biodiversity dynamics and enjoy using molecular and quantiative methods to do so. Read about my research [here](https://roberthechler.github.io/research/)
 
 **Email:** robert.hechler@mail.utoronto.ca
 
